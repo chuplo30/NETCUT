@@ -9,4 +9,4 @@
 
 ```bash
 pkg install python              
-sudo apt install python3        
+        
